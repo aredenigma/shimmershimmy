@@ -1,0 +1,1 @@
+This is a simple openframeworks demo that combines the ofxDrawnetic add-on and the associated ofxGenerative addon, and then smushes them both into the beat generator portion of the soundplayer demo. Have fun? 
